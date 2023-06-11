@@ -1,2 +1,3 @@
 # Steel-Industry-Energy-Consumption-Prediction
-The dataset used for this project is taken from the official UCI  Machine Learning Repository. Train a model to predict the Energy Usage
+The dataset used for this project is taken from the official UCI Machine Learning Repository. This project aims to develop the predictive model for Energy 
+Consumption
